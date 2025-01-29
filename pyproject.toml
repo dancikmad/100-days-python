@@ -1,0 +1,13 @@
+[project]
+name = "python-100-days"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "colorama>=0.4.6",
+    "flask>=3.1.0",
+    "reflex>=0.6.8",
+    "streamlit>=1.41.1",
+    "watchdog>=6.0.0",
+]
